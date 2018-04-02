@@ -1,0 +1,22 @@
+{
+  "name": "graphing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarantino.js",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "babar": "^0.2.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "csvtojson": "^1.1.9",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node tarantino"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
